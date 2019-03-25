@@ -5,3 +5,4 @@ List of Data Structues added:
 * Singly Linked List
 * Stack
 * Queue
+* Circular Linked List
